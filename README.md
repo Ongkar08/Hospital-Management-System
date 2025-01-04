@@ -45,4 +45,4 @@ The **Hospital Management System** is a GUI-based Java application that simplifi
 2. Navigate to the directory where you want to store the project.  
 3. Use the following command to clone the repository:  
    ```bash
-   git clone https://github.com/username/hospital-management-system.git
+   git clone https://github.com/Ongkar08/Hospital-Management-System.git
